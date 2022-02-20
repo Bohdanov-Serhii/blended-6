@@ -1,5 +1,9 @@
 .hero {
-  background-image: url("../images/background-image-hero.jpg");
+  background-image: url('../images/background-image-hero.jpg');
   padding-top: 210px;
   padding-bottom: 270px;
+}
+
+.feedback {
+  background-image: url('../images/feedback_img.jpg');
 }
