@@ -7,3 +7,23 @@
 .feedback {
   background-image: url('../images/feedback_img.jpg');
 }
+
+body {
+  /* font-family: 'Inter', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.header {
+  background-color: #0d0d33;
+}
+
+/* nav */
+.nav-link {
+  color: #fff;
+}
